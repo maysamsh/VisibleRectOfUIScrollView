@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "87f6480868d0943fc9f9882279b8748d"
+build_time: [518598157, 963188000]
+inputs:
+  "/Users/maysam/Documents/ios/Playground/VisibleRectOfUIScrollView/VisibleRectOfUIScrollView/ViewController.swift": !private [518598157, 0]
+  "/Users/maysam/Documents/ios/Playground/VisibleRectOfUIScrollView/VisibleRectOfUIScrollView/AppDelegate.swift": [518593623, 0]
